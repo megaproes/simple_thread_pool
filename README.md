@@ -1,8 +1,6 @@
-Certainly! Here's a shorter version of the README.md file:
-
 # SimpleThreadPool
 
-SimpleThreadPool is a C++ header-only library that provides a basic implementation of a thread pool. It allows you to easily distribute tasks across multiple threads for concurrent execution.
+SimpleThreadPool is a C++ header-only simple library that provides a basic implementation of a thread pool. It allows you to easily distribute tasks across multiple threads for concurrent execution.
 
 ## Usage
 
@@ -39,7 +37,3 @@ To use SimpleThreadPool in your project, follow these steps:
    ```cpp
    threadPool.Destroy();
    ```
-
-That's it! You can now leverage SimpleThreadPool to parallelize your tasks and improve performance.
-
-Feel free to modify and use SimpleThreadPool in your projects. Contributions are also welcome!
